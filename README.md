@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Saiyam Jain!
 
-<!--
-**SaiyamJain20/SaiyamJain20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech in Computer Science and Engineering**  
+International Institute of Information Technology, Hyderabad  
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a passionate systems and backend developer with a strong foundation in operating systems, distributed systems, Machine-Learning and cloud-native API development. I enjoy building efficient, scalable solutions — from network file systems and containerized APIs to in-memory databases and dynamic edge-cloud ML systems.
+
+I’m currently honing my skills through competitive programming and project-based learning, and I'm always looking to collaborate on challenging engineering problems.
+
+## 🧑‍💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiyamJain20&layout=compact&theme=tokyonight&hide_title=false)
+
+## Technical Skills
+
+- **Technologies:** React, Node.js, Flask, Linux, Git, XV6, Android Studio  
+- **Concepts:** Distributed Systems, OS Internals, API Development, Concurrency, Multithreading
+
+## Connect with Me
+
+- Email: [saiyamjain3420@gmail.com](mailto:saiyamjain3420@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/saiyam-jain-87696b281/)  
+- [GitHub](https://github.com/SaiyamJain20)
+
+## Competitive Coding
+
+- 💪 **Codeforces:** Rated **Expert (1736)** — [Saiyam20](https://codeforces.com/profile/Saiyam20)  
+- 🏅 **LeetCode:** Rated **1681** — [Saiyam20](https://leetcode.com/u/Saiyam20/)
+
+> *"Build things worth remembering, solve problems worth tackling."*
+
