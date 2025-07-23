@@ -26,7 +26,7 @@ I’m currently honing my skills through competitive programming and project-bas
 
 ## Competitive Coding
 
-- 💪 **Codeforces:** Rated **Expert (1736)** — [Saiyam20](https://codeforces.com/profile/Saiyam20)  
+- 💪 **Codeforces:** Rated **Expert (1672)** — [Saiyam20](https://codeforces.com/profile/Saiyam20)  
 - 🏅 **LeetCode:** Rated **1681** — [Saiyam20](https://leetcode.com/u/Saiyam20/)
 
 > *"Build things worth remembering, solve problems worth tackling."*
